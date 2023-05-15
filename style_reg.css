@@ -1,0 +1,20 @@
+body{
+    background-color: #bcbbbd;
+}
+.img1{
+    height: 10vh;
+    width: 20vh;
+    display: flex;
+    float: left;
+    align-items: center;
+}
+
+.entries{ 
+    display: flex;
+    margin: 100px;
+    position: relative;
+}
+.btn{
+    height: 40px;
+    width: 90px;
+}
